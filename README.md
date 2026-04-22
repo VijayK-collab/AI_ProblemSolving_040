@@ -59,14 +59,6 @@ Color a graph such that:
 
 ---
 
-## 🎬 Live Visualization
-
-<p align="center">
-  <img src="screenshots/map.gif" width="750">
-</p>
-
----
-
 ## 📊 Output Snapshot
 Algorithm: DSatur
 Nodes: 7
@@ -94,14 +86,6 @@ Efficiently transport students:
 | Nearest Neighbor     | Initial route |
 | 2-Opt                | Optimization |
 | Cluster-then-Route   | Smart grouping |
-
----
-
-## 🎬 Route Animation
-
-<p align="center">
-  <img src="screenshots/bus.gif" width="750">
-</p>
 
 ---
 

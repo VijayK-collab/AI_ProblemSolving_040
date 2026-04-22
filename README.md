@@ -138,8 +138,6 @@ Real-world applications of algorithms
 GUI-based algorithm visualization
 🧑‍💻 Author
 
-Vijay K
+Vijay K.
 
-📜 License
 
-This project is free for educational and academic use.

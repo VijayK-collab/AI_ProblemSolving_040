@@ -129,42 +129,28 @@ Time: 3.4 ms
 
 ---
 
-# ⚡ Tech Power
+<!-- 📸 Screenshots & Animations -->
 
-```diff
-+ Python 3
-+ Tkinter GUI Engine
-+ Graph Theory Algorithms
-+ Heuristic Optimization
-+ Real-Time Visualization
-🧩 Architecture Insight
-User Interaction → GUI (Tkinter)
-                 ↓
-        Data Structures
-                 ↓
-        Algorithm Engine
-                 ↓
-     Visualization Renderer
-📂 Project Structure
-📦 Algorithm-Visualizer
- ┣ 📜 MapColoringProblem.py
- ┣ 📜 SchoolBusRouteOptimization.py
- ┣ 📂 screenshots/
- ┃ ┣ map.gif
- ┃ ┣ bus.gif
- ┃ ┣ map1.png
- ┃ ┣ bus1.png
- ┗ 📄 README.md
-📈 GitHub Analytics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight"> </p>
-🚀 Future Evolution
-🌐 Web-based interactive version
-🤖 AI-driven optimization
-📱 Mobile application
-🧠 ML-based route prediction
-👨‍💻 Creator
-💎 Vijay K
-<p align="center"> <img src="https://img.shields.io/badge/Innovation-Driven-blueviolet?style=for-the-badge"> </p>
-⭐ Support The Project
-<p align="center"> 🌟 Star • 🍴 Fork • 🚀 Share • 💡 Inspire </p>
-<!-- ───────────────── FOOTER ───────────────── --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=150&section=footer"/> </p> ```
+## 🎬 Live Previews
+
+<p align="center">
+  <img src="./screenshots/map.gif" width="700">
+</p>
+
+<p align="center">
+  <img src="./screenshots/bus.gif" width="700">
+</p>
+
+---
+
+## 📸 UI Screenshots
+
+<p align="center">
+  <img src="./screenshots/map1.png" width="45%">
+  <img src="./screenshots/map2.png" width="45%">
+</p>
+
+<p align="center">
+  <img src="./screenshots/bus1.png" width="45%">
+  <img src="./screenshots/bus2.png" width="45%">
+</p>───────── FOOTER ───────────────── --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=150&section=footer"/> </p> ```
